@@ -1,8 +1,7 @@
 {
     "name": "min_sl_app",
     "short_name": "min_sl_app",
-    "id": "/statisk",
-    "start_url": "/statisk/",
+    "start_url": "statisk.github.io",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
