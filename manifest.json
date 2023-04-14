@@ -1,8 +1,8 @@
 {
     "name": "min_sl_app",
     "short_name": "min_sl_app",
-    "id": "/min_sl_app/",
-    "start_url": "/min_sl_app/",
+    "id": "/statisk",
+    "start_url": "/statisk/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
